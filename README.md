@@ -35,7 +35,7 @@ I like well-structured code, learning by building real projects, and turning ide
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-AI-8A2BE2?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/OpenCode-AI_Coding-000000?style=flat-square)
-
+<!--
 ### 📌 Featured projects
 
 | Project | Description | Stack |
@@ -45,7 +45,7 @@ I like well-structured code, learning by building real projects, and turning ide
 | [**MyStudyDiary**](https://github.com/FrocusJKL/MyStudyDiary) | A diary to track and organize my study sessions | JavaScript |
 | [**MercadoPlus-Extension**](https://github.com/FrocusJKL/MercadoPlus-Extension) | Browser extension that adds extra features to Mercado Libre | JavaScript · SCSS |
 | [**MP2-Echoes-Remastered-prototype**](https://github.com/FrocusJKL/MP2-Echoes-Remastered-prototype) | Game prototype inspired by Metroid Prime 2: Echoes | C# |
-
+-->
 ### 📊 GitHub stats
 
 <p align="center">
