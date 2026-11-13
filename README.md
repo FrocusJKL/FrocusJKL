@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=30&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 **Full Stack Developer · 📍 Aguascalientes, México
 
