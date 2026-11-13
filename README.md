@@ -2,9 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn)
 
-**Full Stack Developer · Angular + ASP.NET Core** · 📍 Aguascalientes, México
+**Full Stack Developer · 📍 Aguascalientes, México
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="55%" /></a>
 
 ### 🧑‍💻 About me
 
@@ -14,6 +13,8 @@ I like well-structured code, learning by building real projects, and turning ide
 🔭 Working on **AtlasCore** (Web + API) · 💬 Ask me about Angular, ASP.NET Core, C#, TypeScript<br>
 🌱 Learning **Cloud & AI**: Docker, Kubernetes, Jenkins, GitHub Actions, AWS, OpenCode and RAG<br>
 📫 Contact: *[your LinkedIn or a public email you're comfortable sharing]*
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="35%" /></a>
 
 ### 🛠️ Tech stack
 
@@ -49,13 +50,13 @@ I like well-structured code, learning by building real projects, and turning ide
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrocusJKL&theme=apprentice&animation=draw" alt="Stats" width="20%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Repos per language" width="20%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Most commit language" width="20%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrocusJKL&theme=apprentice&animation=draw" alt="Stats" width="25%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Repos per language" width="25%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Most commit language" width="25%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrocusJKL&theme=apprentice&animation=draw&name=Juan+Pablo" alt="Profile details" width="41%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="20%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrocusJKL&theme=apprentice&animation=draw&name=Juan+Pablo" alt="Profile details" width="51.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="25%" />
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=blur&height=70&color=gradient&section=footer&reversal=false)
