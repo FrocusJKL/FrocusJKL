@@ -14,7 +14,7 @@ I like well-structured code, learning by building real projects, and turning ide
 🌱 Learning **Cloud & AI**: Docker, Kubernetes, Jenkins, GitHub Actions, AWS, OpenCode and RAG<br>
 📫 Contact: *[your LinkedIn or a public email you're comfortable sharing]*
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="35%" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="40%" /></a>
 
 ### 🛠️ Tech stack
 
