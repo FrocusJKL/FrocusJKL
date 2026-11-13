@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=30&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn)
 
-**Full Stack Developer · 📍 Aguascalientes, México
+**Full Stack Developer · Angular + ASP.NET Core** · 📍 Aguascalientes, México
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="55%" /></a>
 
@@ -35,7 +35,7 @@ I like well-structured code, learning by building real projects, and turning ide
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-AI-8A2BE2?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/OpenCode-AI_Coding-000000?style=flat-square)
-<!--
+
 ### 📌 Featured projects
 
 | Project | Description | Stack |
@@ -45,7 +45,7 @@ I like well-structured code, learning by building real projects, and turning ide
 | [**MyStudyDiary**](https://github.com/FrocusJKL/MyStudyDiary) | A diary to track and organize my study sessions | JavaScript |
 | [**MercadoPlus-Extension**](https://github.com/FrocusJKL/MercadoPlus-Extension) | Browser extension that adds extra features to Mercado Libre | JavaScript · SCSS |
 | [**MP2-Echoes-Remastered-prototype**](https://github.com/FrocusJKL/MP2-Echoes-Remastered-prototype) | Game prototype inspired by Metroid Prime 2: Echoes | C# |
--->
+
 ### 📊 GitHub stats
 
 <p align="center">
