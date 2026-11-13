@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
-**Full Stack Developer · Angular + ASP.NET Core** · 📍 Aguascalientes, México
+**Full Stack Developer · 📍 Aguascalientes, México
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="55%" /></a>
 
