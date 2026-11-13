@@ -59,6 +59,6 @@ I like well-structured code, learning by building real projects, and turning ide
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="25%" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=blur&height=80&color=gradient&section=footer&reversal=false)
+<!--![Footer](https://capsule-render.vercel.app/api?type=blur&height=80&color=gradient&section=footer&reversal=false)-->
 
 </div>
