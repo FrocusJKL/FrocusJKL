@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=50&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=40&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn)
 
 **Full Stack Developer · 📍 Aguascalientes, México
 
@@ -59,6 +59,6 @@ I like well-structured code, learning by building real projects, and turning ide
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="25%" />
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=blur&height=70&color=gradient&section=footer&reversal=false)
+![Footer](https://capsule-render.vercel.app/api?type=blur&height=80&color=gradient&section=footer&reversal=false)
 
 </div>
