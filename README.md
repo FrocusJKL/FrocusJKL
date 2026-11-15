@@ -4,6 +4,9 @@
 
  Full Stack Developer · 📍 Aguascalientes, México 
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top" align="left">
 
 ### 🧑‍💻 About me
 
@@ -14,7 +17,6 @@ I like well-structured code, learning by building real projects, and turning ide
 🌱 Learning **Cloud & AI**: Docker, Kubernetes, Jenkins, GitHub Actions, AWS, OpenCode and RAG<br>
 📫 Contact: *[your LinkedIn or a public email you're comfortable sharing]*
 -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="40%" /></a>
 
 ### 🛠️ Tech stack
 
@@ -28,7 +30,7 @@ I like well-structured code, learning by building real projects, and turning ide
 ![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <br>
-**Learning:**
+### Learning:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -36,6 +38,35 @@ I like well-structured code, learning by building real projects, and turning ide
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-AI-8A2BE2?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/OpenCode-AI_Coding-000000?style=flat-square)
+
+</td>
+<td width="50%" valign="middle" align="center">
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="90%" /></a>
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrocusJKL&theme=apprentice&animation=draw" alt="Stats" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Repos per language" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Most commit language" width="30%" />
+</p>
+<!--
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrocusJKL&theme=apprentice&animation=draw&name=Juan+Pablo" alt="Profile details" width="51.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="25%" />
+</p>
+-->
+
+</td>
+</tr>
+</table>
+
 <!--
 ### 📌 Featured projects
 
@@ -46,19 +77,6 @@ I like well-structured code, learning by building real projects, and turning ide
 | [**MyStudyDiary**](https://github.com/FrocusJKL/MyStudyDiary) | A diary to track and organize my study sessions | JavaScript |
 | [**MercadoPlus-Extension**](https://github.com/FrocusJKL/MercadoPlus-Extension) | Browser extension that adds extra features to Mercado Libre | JavaScript · SCSS |
 | [**MP2-Echoes-Remastered-prototype**](https://github.com/FrocusJKL/MP2-Echoes-Remastered-prototype) | Game prototype inspired by Metroid Prime 2: Echoes | C# |
--->
-### 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrocusJKL&theme=apprentice&animation=draw" alt="Stats" width="25%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Repos per language" width="25%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Most commit language" width="25%" />
-</p>
-<!--
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrocusJKL&theme=apprentice&animation=draw&name=Juan+Pablo" alt="Profile details" width="51.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="25%" />
-</p>
 -->
 <!--![Footer](https://capsule-render.vercel.app/api?type=blur&height=80&color=gradient&section=footer&reversal=false)-->
 
