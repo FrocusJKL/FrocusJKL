@@ -1,24 +1,24 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=40&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=blur&height=150&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&desc=Full+Stack+Developer+%C2%B7+%F0%9F%93%8D+Aguascalientes%2C+M%C3%A9xico&textBg=false&fontSize=40&fontAlign=50&fontAlignY=42&rotate=0&strokeWidth=0&descSize=18&descAlign=50&descAlignY=68&animation=fadeIn)
 
- Full Stack Developer · 📍 Aguascalientes, México 
- <br>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="50%" /></a>
+
+<br>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top" align="left">
+<td width="50%" valign="top" align="center">
 
 ### 🧑‍💻 About me
 
 I build web applications end to end: clean, responsive interfaces with **Angular** and solid REST APIs with **ASP.NET Core**.<br>
 I like well-structured code, learning by building real projects, and turning ideas into things people can actually use.
-<br>
+
+🔭 Working on **AtlasCore** (Web + API)
 
 </td>
-<td width="50%" valign="middle" align="center">
-
+<td width="50%" valign="top" align="center">
 
 ### 🛠️ Tech stack
 
@@ -31,6 +31,8 @@ I like well-structured code, learning by building real projects, and turning ide
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+🌱 **Currently learning Cloud & AI**<br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -38,7 +40,6 @@ I like well-structured code, learning by building real projects, and turning ide
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-AI-8A2BE2?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/OpenCode-AI_Coding-000000?style=flat-square)
-<br>
 
 </td>
 </tr>
@@ -47,16 +48,20 @@ I like well-structured code, learning by building real projects, and turning ide
 
 ### 📊 GitHub stats
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrocusJKL&theme=apprentice&animation=draw" alt="Stats" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Repos per language" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Most commit language" width="30%" />
 </p>
 
-
 </td>
 </tr>
 </table>
+
+<!--
+Contact (replace the URL and uncomment):
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+-->
 
 </div>
