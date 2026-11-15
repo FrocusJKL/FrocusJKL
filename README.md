@@ -9,11 +9,11 @@
 
 I build web applications end to end: clean, responsive interfaces with **Angular** and solid REST APIs with **ASP.NET Core**.<br>
 I like well-structured code, learning by building real projects, and turning ideas into things people can actually use.
-
+<!--
 🔭 Working on **AtlasCore** (Web + API) · 💬 Ask me about Angular, ASP.NET Core, C#, TypeScript<br>
 🌱 Learning **Cloud & AI**: Docker, Kubernetes, Jenkins, GitHub Actions, AWS, OpenCode and RAG<br>
 📫 Contact: *[your LinkedIn or a public email you're comfortable sharing]*
-
+-->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="40%" /></a>
 
 ### 🛠️ Tech stack
@@ -54,11 +54,12 @@ I like well-structured code, learning by building real projects, and turning ide
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Repos per language" width="25%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Most commit language" width="25%" />
 </p>
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrocusJKL&theme=apprentice&animation=draw&name=Juan+Pablo" alt="Profile details" width="51.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="25%" />
 </p>
-
+-->
 <!--![Footer](https://capsule-render.vercel.app/api?type=blur&height=80&color=gradient&section=footer&reversal=false)-->
 
 </div>
