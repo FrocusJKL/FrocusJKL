@@ -3,6 +3,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=blur&height=180&color=gradient&section=header&reversal=false&text=Hi%2C+I%27m+Juan+Pablo+%F0%9F%91%8B&textBg=false&fontSize=40&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60&animation=fadeIn)
 
  Full Stack Developer · 📍 Aguascalientes, México 
+ <br>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="50%" /></a>
 
 <table width="100%">
 <tr>
@@ -12,11 +14,11 @@
 
 I build web applications end to end: clean, responsive interfaces with **Angular** and solid REST APIs with **ASP.NET Core**.<br>
 I like well-structured code, learning by building real projects, and turning ideas into things people can actually use.
-<!--
-🔭 Working on **AtlasCore** (Web + API) · 💬 Ask me about Angular, ASP.NET Core, C#, TypeScript<br>
-🌱 Learning **Cloud & AI**: Docker, Kubernetes, Jenkins, GitHub Actions, AWS, OpenCode and RAG<br>
-📫 Contact: *[your LinkedIn or a public email you're comfortable sharing]*
--->
+<br>
+
+</td>
+<td width="50%" valign="middle" align="center">
+
 
 ### 🛠️ Tech stack
 
@@ -29,8 +31,6 @@ I like well-structured code, learning by building real projects, and turning ide
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-<br>
-### Learning:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
@@ -38,11 +38,7 @@ I like well-structured code, learning by building real projects, and turning ide
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-AI-8A2BE2?style=flat-square)
 ![OpenCode](https://img.shields.io/badge/OpenCode-AI_Coding-000000?style=flat-square)
-
-</td>
-<td width="50%" valign="middle" align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=FrocusJKL&theme=dark&hide_border=true&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="90%" /></a>
+<br>
 
 </td>
 </tr>
@@ -51,33 +47,16 @@ I like well-structured code, learning by building real projects, and turning ide
 
 ### 📊 GitHub stats
 
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FrocusJKL&theme=apprentice&animation=draw" alt="Stats" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Repos per language" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FrocusJKL&theme=apprentice&animation=draw" alt="Most commit language" width="30%" />
 </p>
-<!--
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FrocusJKL&theme=apprentice&animation=draw&name=Juan+Pablo" alt="Profile details" width="51.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FrocusJKL&theme=apprentice&animation=draw&utcOffset=0" alt="Productive time" width="25%" />
-</p>
--->
+
 
 </td>
 </tr>
 </table>
-
-<!--
-### 📌 Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [**AtlasCore-Web**](https://github.com/FrocusJKL/AtlasCore-Web) | Front end of AtlasCore, built with Angular | Angular · TypeScript |
-| [**AtlasCore-Api**](https://github.com/FrocusJKL/AtlasCore-Api) | REST API powering AtlasCore | ASP.NET Core · C# |
-| [**MyStudyDiary**](https://github.com/FrocusJKL/MyStudyDiary) | A diary to track and organize my study sessions | JavaScript |
-| [**MercadoPlus-Extension**](https://github.com/FrocusJKL/MercadoPlus-Extension) | Browser extension that adds extra features to Mercado Libre | JavaScript · SCSS |
-| [**MP2-Echoes-Remastered-prototype**](https://github.com/FrocusJKL/MP2-Echoes-Remastered-prototype) | Game prototype inspired by Metroid Prime 2: Echoes | C# |
--->
-<!--![Footer](https://capsule-render.vercel.app/api?type=blur&height=80&color=gradient&section=footer&reversal=false)-->
 
 </div>
